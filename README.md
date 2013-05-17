@@ -1,7 +1,7 @@
 APPPush
 =======
 
-Apple Push Notification's with server side code to manage push notifications messaging and handling with iOS Application. I have built many iOS applications and most have had push notifications enabled , We built a library that we use inturnaly that we decided to release as a open source project. This space has lost of open source projects but non offer a complete solution of server and client library that is production ready. This code is used in over 25 App Store projects and is well supported. And as my company has prospered from the open source community and this is how we are going to start to give back to every one who put time and effort into the open source community. 
+Apple Push Notification's with server side code to manage push notifications messaging and handling with iOS Application. I have built many iOS applications and most have had push notifications enabled , We built a library that we use inturnaly that we decided to release as a open source project. This space has lost of open source projects but non offer a complete solution of server and client library that is production ready. This code is used in over 25 App Store projects and is well supported. 
 
 
 Cocoapods
